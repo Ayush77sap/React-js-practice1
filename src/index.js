@@ -107,8 +107,8 @@ const Author = () => (
   </h4>
 );*/
 
-const author = "Jordan Moore";
-const title = "Interesting Facts For Curious Minds";
+const author = "Jordan More";
+const title = "Interesting Facts  Curious Minds";
 const img = "./images/book-1.jpg";
 
 /*function BookList() {
@@ -188,8 +188,8 @@ const Book = (props) => {
 */
 
 const firstBook = {
-  author: "Jordan Moore",
-  title: "Interesting Facts For Curious Minds",
+  author: "Jordan More",
+  title: "Interesting Facts  Curious Minds",
   img: "./images/book-1.jpg",
 };
 const secondBook = {
